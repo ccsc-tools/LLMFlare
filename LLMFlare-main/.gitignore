@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-archived_runs/
-models/
-slurm_logs/
-*.out
-*.err
-.env
